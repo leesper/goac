@@ -30,3 +30,13 @@ Usage Example
 			fmt.Println(string([]rune(content)[result.Start : result.End+1]))
 		}
 	}
+
+	[Output]
+	内容: Aho-Corasick是一种基于Trie树的确定性有穷状态自动机算法
+	匹配词: 
+	基于
+	Trie
+	树
+	自动机
+	PASS
+	ok  	goac	0.002s
